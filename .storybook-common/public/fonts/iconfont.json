@@ -1,0 +1,30 @@
+{
+  "id": "3690663",
+  "name": "react-native",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "538860",
+      "name": "工作台",
+      "font_class": "gongzuotai",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "2170946",
+      "name": "我的-我的",
+      "font_class": "wode-wode",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "630252",
+      "name": "消息中心",
+      "font_class": "xiaoxizhongxin",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    }
+  ]
+}
